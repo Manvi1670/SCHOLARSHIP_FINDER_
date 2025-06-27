@@ -26,7 +26,7 @@ A full-stack web app that helps students easily find scholarships that match the
 - Node.js + Express.js
 
 ### Database
-- MongoDB for data storage
+- MongoDB 
   
 ### Web Scraping
 - Python (BeautifulSoup + Selenium)
