@@ -41,11 +41,13 @@ A full-stack web app that helps students easily find scholarships that match the
 2. **Install frontend dependencies:**
   
    `npm install`
+   
     `cd client`
+   
    ` npm run dev`
    
 
-3. **Install backend dependencies:**
+4. **Install backend dependencies:**
 
    ` npm install`
 
