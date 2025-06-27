@@ -55,6 +55,8 @@ A full-stack web app that helps students easily find scholarships that match the
 
 
 ## screenshots
+
+- [Register page](Screenshots/Screenshot_25-6-2025_112213_localhost.jpeg)
 ## 🌐 Live Demo
 
 [👉 See it in action](https://your-deployment-link.com)
