@@ -13,7 +13,7 @@ app.use(cors({
 }))
 
 async function main() {
-    await mongoose.connect(process.env.MONGO_URI ||"mongodb://127.0.0.1:27017/studyplanner");
+    await mongoose.connect(process.env.MONGO_URI ||mongodb+srv://manvitha:<Manvitha>@cluster0.mya9z8d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0);
     console.log("Connected to DB")
 }
 
