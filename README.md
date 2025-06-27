@@ -7,9 +7,13 @@ A full-stack web app that helps students easily find scholarships that match the
 - 🔐 **User Authentication**: Secure login and registration.
 - 🎛️ **Dynamic Filtering**:
   - By category: All, Monetary, Tuition Waiver, Mixed, Other  
-  - By deadline like within month , week, 6 month , always opne
+  - By deadline like within month , week, 6 month , always open
   - By education type: UnderGraduate, PostGraduate 
-- 📄 **Scholarships**: View detailed information of filtered scholarships
+- 📄 **Scholarships**: View detailed information of filtered scholarships about
+    - eligibility criteria
+    - Benefits
+    - Contact info
+    - Apply link
 - 👤 **User Profile Page**: Displays personal details like Name, College, CGPI, and provides logout
 
 
