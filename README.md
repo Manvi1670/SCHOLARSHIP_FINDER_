@@ -58,7 +58,7 @@ A full-stack web app that helps students easily find scholarships that match the
    `npm start`
 
 
-## screenshots
+## Screenshots
 
 - [Register page](Screenshots/Screenshot_25-6-2025_112213_localhost.jpeg)
 - [Login page](Screenshots/Screenshot_25-6-2025_112120_localhost.jpeg)
